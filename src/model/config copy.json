@@ -23,7 +23,7 @@
   "seq_classif_dropout": 0.2,
   "sinusoidal_pos_embds": true,
   "tie_weights_": true,
-
+  "tokenizer_class": "BertJapaneseTokenizer",
   "torch_dtype": "float32",
   "transformers_version": "4.30.2",
   "vocab_size": 32000
